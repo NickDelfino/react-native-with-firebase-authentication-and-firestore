@@ -26,42 +26,42 @@ directory has been added for constant variables.
 
 ```
 react-native-with-firebase-authentication-and-firestore/
-	.expo/
-	assets/
-		icon.png
-		splash.png
+  .expo/
+  assets/
+    icon.png
+    splash.png
   README.md
   package.json
   src/
-		actions/
-			index.js
-			types.js
-			AuthAction.js
-			ProfileAction.js
-			NoteAction.js
-		components/
-			index.js
-			Input.js
-			Button.js
-		lib/
-			Constants.js
-		navigation/
-			AppNavigation.js
-			MainNavigation.js
-			RootNavigation.js
-			SignInNavigation.js
-		reducers/
-			AuthReducer.js
-			index.js
-			ProfileReducer.js
-			NoteReducer.js
-		screens/
-			ProfileScreen.js
-			NoteScreen.js
-			SignInScreen.js
-	.babelrc
-	.watchmanconfig
-	app.json
+    actions/
+      index.js
+      types.js
+      AuthAction.js
+      ProfileAction.js
+      NoteAction.js
+    components/
+      index.js
+      Input.js
+      Button.js
+    lib/
+      Constants.js
+    navigation/
+      AppNavigation.js
+      MainNavigation.js
+      RootNavigation.js
+      SignInNavigation.js
+    reducers/
+      AuthReducer.js
+      index.js
+      ProfileReducer.js
+      NoteReducer.js
+    screens/
+      ProfileScreen.js
+      NoteScreen.js
+      SignInScreen.js
+  .babelrc
+  .watchmanconfig
+  app.json
   App.js
 ```
 
