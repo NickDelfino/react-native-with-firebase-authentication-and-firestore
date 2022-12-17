@@ -5,7 +5,6 @@
 - [Setting Up Cloud Firestore](#setting-up-cloud-firestore)
 - [Folder Structure](#folder-structure)
 - [Running Example](#running-example)
-- [Live Demo](#live-demo)
 
 ## App Description
 
